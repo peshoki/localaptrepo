@@ -1,0 +1,13 @@
+{
+  "name": "peshoki-localaptrepo",
+  "version": "0.1.0",
+  "summary": "Local apt repository",
+  "author": "Peter Kirov",
+  "description": "This module manages local apt repositories. Usefull if you need to download .deb file and to install all dependencies.",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "git://github.com/peshoki/localaptrepo",
+  "project_page": "https://github.com/peshoki/localaptrepo",
+  "license": "Apache"
+}
